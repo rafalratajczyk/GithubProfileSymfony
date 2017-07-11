@@ -29,6 +29,28 @@ class GithubController extends Controller
                 'followers' => 0,
                 'following' => 0,
             ],
+            'repo_count' => 100,
+            'most_stars' => 89,
+            'repos' => [
+                [
+                    'name' => 'I have a question',
+                    'url' => 'https://github.com/settings/profile',
+                    'stargazers_count' => 51,
+                    'description' => 'learnig Symfony 3'
+                ],
+                [
+                    'name' => 'What do you think about Symfony?',
+                    'url' => 'https://github.com/settings/profile',
+                    'stargazers_count' => 67,
+                    'description' => 'learnig Symfony 3'
+                ],
+                [
+                    'name' => 'I think it is great!',
+                    'url' => 'https://github.com/settings/profile',
+                    'stargazers_count' => 42,
+                    'description' => 'learnig Symfony 3'
+                ],
+            ]
         ]);
     }
 
