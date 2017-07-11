@@ -36,7 +36,7 @@ Final look below:
 FYI
 ---
 
-To data I used [**REST API v3 documentation**][1]
+To data I used [**REST API v3 documentation**][1] and bootstrap.
 
 Enjoy
 
